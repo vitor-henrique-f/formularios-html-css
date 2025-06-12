@@ -1,0 +1,26 @@
+.name {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 100px;
+    font-size: xx-large;
+    padding-top: 170px;
+}
+
+
+.email {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: xx-large;
+}
+
+
+.button {
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+    height: 50px;
+    position: relative;
+    left: 44px;
+}
